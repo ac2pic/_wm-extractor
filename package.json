@@ -1,0 +1,22 @@
+{
+  "name": "wm-extractor",
+  "version": "1.0.0",
+  "description": "This will take the CrossCode compiled js file and extract all _wm properties",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ac2pic/_wm-extractor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ac2pic/_wm-extractor/issues"
+  },
+  "homepage": "https://github.com/ac2pic/_wm-extractor#readme",
+  "dependencies": {
+    "@babel/core": "^7.5.5"
+  }
+}
