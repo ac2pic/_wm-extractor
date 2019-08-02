@@ -2,9 +2,10 @@
   "name": "wm-extractor",
   "version": "1.0.0",
   "description": "This will take the CrossCode compiled js file and extract all _wm properties",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node index.js"
+	"start": "electron .",
+	"quick": "node index.js"
   },
   "repository": {
     "type": "git",
